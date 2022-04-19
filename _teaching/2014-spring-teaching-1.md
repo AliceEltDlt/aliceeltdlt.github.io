@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Econometrics"
 collection: teaching
-type: "Undergraduate course"
+type: "1st year graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Prof. Andreas Fuster, EPFL"
+date: 2021-09-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The course covers basic econometric models and methods that are routinely applied to obtain inference results in economic and financial applications.
