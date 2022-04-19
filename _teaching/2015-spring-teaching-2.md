@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Econometrics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "1st year graduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Prof. Andreas Fuster, EPFL"
+date: 2021-09-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course covers basic econometric models and methods that are routinely applied to obtain inference results in economic and financial applications.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Content:
+- Linear regression models
+- Ordinary least squares estimation
+- Hypothesis testing and confidence intervals in linear regression models
+- Nonlinear regression models
+- Generalised least squares
+- Instrumental variables estimation
+- Generalized method of moments
+- Maximum likelihood estimation
+- Introduction to time series models

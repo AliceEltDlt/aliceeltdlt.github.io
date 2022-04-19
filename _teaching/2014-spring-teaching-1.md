@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Principles of finance"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "1st year graduate course"
+permalink: /teaching/2015-spring-teaching-1
+venue: "Prof. Erwan Morellec, EPFL"
+date: 2021-09-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course provides a framework for understanding key concepts in finance such as the valuation of firms, projects and securities such as stocks and bonds, portfolio decisions, investment and financing decisions within firms, and derivatives.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Content
+1. Introduction to finance
+2. Arbitrage, discounting, and the term structure of interest rates
+3. Introduction to the valuation of bonds and stocks
+4. Risk and return
+5. Capital Budgeting
+6. Capital Structure Decisions
+7. Financial derivatives
