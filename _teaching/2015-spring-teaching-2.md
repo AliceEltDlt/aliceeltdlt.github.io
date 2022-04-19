@@ -20,4 +20,4 @@ The course covers basic econometric models and methods that are routinely applie
 - Maximum likelihood estimation
 - Introduction to time series models
 
-Course website: https://edu.epfl.ch/coursebook/fr/econometrics-FIN-403
+[Course Website](https://edu.epfl.ch/coursebook/fr/econometrics-FIN-403)

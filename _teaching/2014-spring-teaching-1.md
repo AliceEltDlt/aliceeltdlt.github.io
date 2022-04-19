@@ -18,4 +18,4 @@ This course provides a framework for understanding key concepts in finance such 
 6. Capital Structure Decisions
 7. Financial derivatives
 
-Course website: https://edu.epfl.ch/coursebook/fr/principles-of-finance-MGT-482
+[Course Website](https://edu.epfl.ch/coursebook/fr/principles-of-finance-MGT-482)
