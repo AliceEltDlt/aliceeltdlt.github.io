@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Finance at the Swiss Finance Institute @ EPFL, under the supervision of [Ruediger Fahlenbrach](https://www.sfi.ch/fr/people/ruediger-fahlenbrach) (SFI@EPFL). <br>
+Welcome to my website. I am a PhD candidate in Finance at the Swiss Finance Institute @ EPFL, under the supervision of [Ruediger Fahlenbrach](https://www.sfi.ch/fr/people/ruediger-fahlenbrach) (SFI@EPFL). <br>
 
-My research interests are in sustainable finance and empirical corporate finance. <br> <br>
+My research interests are in sustainable finance and empirical corporate finance.
 
-My CV is available [here](https://aliceeltdlt.github.io/pdf/AElietDoillet_CV.pdf) and my email address is: alice.eliet-doillet@epfl.ch
+Contact: alice.eliet-doillet at epfl.ch
