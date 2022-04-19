@@ -1,9 +1,9 @@
 ---
 title: "Principles of finance"
 collection: teaching
-type: "Graduate course (1st year)"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Teaching assistant to Prof. Erwan Morellec, EPFL"
+venue: "Teaching assistant for Prof. Erwan Morellec, EPFL"
+type: "Graduate course (1st year)"
 date: 2021-09-01
 ---
 
