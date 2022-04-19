@@ -12,4 +12,4 @@ Welcome to my website. I am a PhD candidate in Finance at the Swiss Finance Inst
 
 My research interests are in sustainable finance and empirical corporate finance.
 
-<h6>Contact:<\h6> alice.eliet-doillet at epfl.ch
+###### Contact: alice.eliet-doillet at epfl.ch
