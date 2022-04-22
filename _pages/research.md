@@ -20,4 +20,4 @@ bond issued, for both the segments of ECB-eligible and non-ECB-eligible green bo
 
 
 
-[Working Paper](https://aliceeltdlt.github.io/pdf/UMP_Climate_April22.pdf)
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090616)
