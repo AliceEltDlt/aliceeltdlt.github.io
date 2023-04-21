@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 venue: "Teaching assistant for Prof. Erwan Morellec, EPFL"
 type: "Graduate course (1st year)"
-date: 2021-09-01
+date: 2021-09-01, 2022-09-01
 ---
 
 This course provides a framework for understanding key concepts in finance such as the valuation of firms, projects and securities such as stocks and bonds, portfolio decisions, investment and financing decisions within firms, and derivatives.
