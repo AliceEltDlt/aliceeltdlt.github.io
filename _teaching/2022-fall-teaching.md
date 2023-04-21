@@ -1,21 +1,21 @@
 ---
-title: "Principles of finance"
+title: "Ethical behavior in the financial industry"
 collection: teaching
-permalink: /teaching/2015-spring-teaching-1
-venue: "Teaching assistant for Prof. Erwan Morellec, EPFL"
+permalink: /teaching/2022-fall-teaching
+venue: "Teaching assistant for Aziz Nahas"
 type: "Graduate course (1st year)"
-date: 2021-09-01, 2022-09-01
+date: 2022-09-01
 ---
 
-This course provides a framework for understanding key concepts in finance such as the valuation of firms, projects and securities such as stocks and bonds, portfolio decisions, investment and financing decisions within firms, and derivatives.
+
+Course focusing on ethical dilemmas faced by professionals in the financial industry. Based on case studies of real events, illustrated through various kinds of transgressions. Also study what regulators and firms have put in place to mitigate these issues and propose some guiding principles for individuals.
 
 ### Content
-1. Introduction to finance
-2. Arbitrage, discounting, and the term structure of interest rates
-3. Introduction to the valuation of bonds and stocks
-4. Risk and return
-5. Capital Budgeting
-6. Capital Structure Decisions
-7. Financial derivatives
+1. Most notorious examples of financial crime
+2. Different kinds of organisations and functions within the financial industry
+3. Role of the main regulators in the financial industry
+4. Specific kinds of transgressions with real case studies
+5. How to remain alert and avoid such transgressions
 
-[Course Website](https://edu.epfl.ch/coursebook/fr/principles-of-finance-MGT-482)
+
+[Course Website](https://edu.epfl.ch/coursebook/fr/ethical-behavior-in-the-financial-industry-FIN-419)
