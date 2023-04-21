@@ -8,7 +8,7 @@ date: 2022-09-01
 ---
 
 
-This course focuses on ethical dilemmas faced by professionals in the financial industry. Based on case studies of real events, illustrated through various kinds of transgressions. Also study what regulators and firms have put in place to mitigate these issues and propose some guiding principles for individuals.
+This course focuses on ethical dilemmas faced by professionals in the financial industry. It is based on case studies of real events, illustrated through various kinds of transgressions. It also looks into what regulators and firms have put in place to mitigate these issues and proposes some guiding principles for individuals.
 
 ### Content
 1. Most notorious examples of financial crime
