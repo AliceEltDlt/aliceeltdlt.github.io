@@ -1,7 +1,7 @@
 ---
 title: "Econometrics"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Teaching assistant for Prof. Andreas Fuster, EPFL"
 type: "Graduate course (1st year)"
 date: 2021-09-01
