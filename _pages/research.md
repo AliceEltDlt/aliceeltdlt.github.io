@@ -7,10 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-##  Can unconventional monetary policy contribute to climate action? ##
+##  Can Unconventional Monetary Policy Contribute to Climate Action? ##
 Joint work with Andrea Giulio Maino, SFI@UNIGE
 
-*Abstract:* This paper investigates the impact of central banks when supporting policies aiming at greening the financial system. The July 2021 Monetary Policy Strategy Review of the European Central Bank unexpectedly dedicated a whole workstream to climate change. The announcement had a significant effect on the pricing and issuance of green bonds in the Eurozone. We find that ECB eligible green bonds’ Yield-to-Maturity decreased following the announcement when compared to equivalent conventional bonds. Firms incorporated in the Eurozone reacted to the announcement by increasing the amount of green bonds issued. The effect is concentrated in the segment of investment-grade green bonds and among seasoned green bond issuers. As only half of the effect measured can be attributed to green bonds with a Second-Party Opinion, our results also suggest that central banks should target more transparent issuance to reduce the risk of greenwashing.
-
+*Abstract:* We examine whether central banks can redirect financial flows toward green finance, and to what extent it prompts a cut in firms’ carbon emissions. We focus on the European Central Bank’s July 2021 Monetary Policy Strategy Review, which unexpectedly dedicated an entire workstream to climate change. We find that this announcement had a significant effect on green bonds: (i) ECB-eligible green bonds’ Yield-to- Maturity decreased compared to equivalent conventional bonds; (ii) firms incorporated in the Eurozone reacted by increasing the amount of green bonds issued, particularly in the investment-grade segment. In contrast, we obtain that the increase in green bond issuance was not matched by an increase in firms’ efforts to reduce emissions in the long term, as signaled by the signature of net-zero commitments.
 
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090616)
