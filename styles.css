@@ -14,7 +14,7 @@
 }
 
 /* Responsive text justification for mobile */
-@media (max-width: 768px) {
+@media (max-width: 60px) {
     p, h3 {
         text-align: justify;
     }
