@@ -23,6 +23,7 @@
         margin-left: auto;
         margin-right: auto;
         text-align: center;
+        max-width: 60px; /* Further reduce image size on mobile */
     }
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
